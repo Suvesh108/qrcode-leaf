@@ -1,0 +1,6 @@
+{
+  "name": "QRcraft",
+  "description": "Professional AI-powered QR code generator and campaign management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300..900&family=Geist:wght@100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-surface: #FAFDFB;
+  --color-surface-dim: #D1DFD8;
+  --color-surface-bright: #FCFDFD;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #F1F7F4;
+  --color-surface-container: #E8F2ED;
+  --color-surface-container-high: #DDEBE3;
+  --color-surface-container-highest: #D3E4DB;
+  --color-on-surface: #0B1E16;
+  --color-on-surface-variant: #42554B;
+  --color-inverse-surface: #26382E;
+  --color-inverse-on-surface: #F1F7F4;
+  --color-outline: #708176;
+  --color-outline-variant: #BFD0C5;
+  --color-surface-tint: #2E9D52;
+  --color-primary: #2E9D52;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #0B1E16;
+  --color-on-primary-container: #E3EBE7;
+  --color-inverse-primary: #8CEAA6;
+  --color-secondary: #0B1E16;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #2E9D52;
+  --color-on-secondary-container: #ffffff;
+  --color-tertiary: #E8F7F0;
+  --color-on-tertiary: #0B1E16;
+  --color-tertiary-container: #1C3B2E;
+  --color-on-tertiary-container: #A7F3D0;
+  --color-error: #ba1a1a;
+  --color-on-error: #ffffff;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+  --color-background: #FAFDFB;
+  --color-on-background: #0B1E16;
+  --color-surface-variant: #E8F2ED;
+  --color-card: #FFFFFF;
+  --color-border: #E3EBE7;
+  --color-hover: #F0F9F5;
+  --color-text-primary: #0B1E16;
+  --color-text-secondary: #5C7368;
+  --color-success: #1E8C46;
+  --color-warning: #D97706;
+  --color-danger: #DC2626;
+
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+}
+
+@layer base {
+  /* ── Smooth scroll + crisp text rendering ── */
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-background text-text-primary antialiased selection:bg-primary/10 selection:text-primary;
+    /* Prevent iOS rubber-band bounce that causes scroll stutter */
+    overscroll-behavior: none;
+  }
+}
+
+/* ── GPU-promoted layers for heavy blur/glass elements ──
+   Moves these off the main compositing thread so scrolling
+   doesn't trigger expensive repaints on every frame.        */
+.glass-panel,
+[class*="blur-"],
+[class*="backdrop-blur"] {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Explicit compositing hint for scroll-animated cards */
+.scroll-card {
+  will-change: transform, opacity;
+  transform: translateZ(0);
+}
+
+.glass-panel {
+  @apply bg-white/75 backdrop-blur-xl border border-border/80 shadow-[0_8px_32px_0_rgba(46,157,82,0.03)];
+}
+
+.bg-grid-pattern {
+  background-image: linear-gradient(to right, var(--color-border) 1px, transparent 1px),
+                    linear-gradient(to bottom, var(--color-border) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.bg-organic-grid {
+  background-image: radial-gradient(var(--color-primary) 0.5px, transparent 0.5px), radial-gradient(var(--color-primary) 0.5px, transparent 0.5px);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+  opacity: 0.03;
+}
+
+/* ── Custom premium scrollbar ── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-outline-variant);
+}

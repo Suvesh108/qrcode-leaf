@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "url": "https://qrcodeleaf.com/welcome",
+    "timestamp": "2026-05-17T17:04:23.586Z",
+    "foregroundColor": "#2E9D52",
+    "backgroundColor": "#ffffff",
+    "patternStyle": "rounded",
+    "finderStyle": "rounded",
+    "errorCorrection": "Q",
+    "scanValid": true,
+    "attempts": 1,
+    "baseScans": 1314
+  },
+  {
+    "id": "2",
+    "url": "https://qrcodeleaf.com/features",
+    "timestamp": "2026-05-19T17:04:23.586Z",
+    "foregroundColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "patternStyle": "square",
+    "finderStyle": "square",
+    "errorCorrection": "H",
+    "scanValid": true,
+    "attempts": 1,
+    "baseScans": 2353
+  },
+  {
+    "url": "https://example.com",
+    "foregroundColor": "#424242",
+    "backgroundColor": "#b6b6b6",
+    "patternStyle": "liquid",
+    "finderStyle": "rounded",
+    "errorCorrection": "H",
+    "scanValid": true,
+    "attempts": 1,
+    "id": "9rn49zw",
+    "timestamp": "2026-05-20T17:05:06.348Z",
+    "baseScans": 303
+  }
+]

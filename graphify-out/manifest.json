@@ -1,0 +1,202 @@
+{
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\metadata.json": {
+    "mtime": 1778916139.9760208,
+    "ast_hash": "69ec040fe2dbeb7adb5b4647c3a20794",
+    "semantic_hash": "69ec040fe2dbeb7adb5b4647c3a20794"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\test-api.mjs": {
+    "mtime": 1779118737.491762,
+    "ast_hash": "70617d20da65465848f2ddbd6a0ede49",
+    "semantic_hash": "70617d20da65465848f2ddbd6a0ede49"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\package.json": {
+    "mtime": 1779042847.4654424,
+    "ast_hash": "3e9133aea131f77333816475b5c066b8",
+    "semantic_hash": "3e9133aea131f77333816475b5c066b8"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\server.ts": {
+    "mtime": 1779119351.6430535,
+    "ast_hash": "13bc29372d2f703078df6a907851a2da",
+    "semantic_hash": "13bc29372d2f703078df6a907851a2da"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\tsconfig.json": {
+    "mtime": 1779042000.4387436,
+    "ast_hash": "14fcb774469c597789ead52a61658a4b",
+    "semantic_hash": "14fcb774469c597789ead52a61658a4b"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\analyticsStore.ts": {
+    "mtime": 1779119662.3317165,
+    "ast_hash": "5071dbde3d5a13e9d4a92a348508f881",
+    "semantic_hash": "5071dbde3d5a13e9d4a92a348508f881"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\api.ts": {
+    "mtime": 1779119346.6866567,
+    "ast_hash": "5da8e960a41aa7d407d6e068d695edf2",
+    "semantic_hash": "5da8e960a41aa7d407d6e068d695edf2"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\auth.ts": {
+    "mtime": 1779116346.4090104,
+    "ast_hash": "d62765c11df908ba0b3aac54b9b07e53",
+    "semantic_hash": "d62765c11df908ba0b3aac54b9b07e53"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\types.ts": {
+    "mtime": 1779089009.2399704,
+    "ast_hash": "57b9315c9e236005374224365bec65a6",
+    "semantic_hash": "57b9315c9e236005374224365bec65a6"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\utils.ts": {
+    "mtime": 1778928742.923009,
+    "ast_hash": "98ee060e33d78d25bbe6fcf1c4bbef2b",
+    "semantic_hash": "98ee060e33d78d25bbe6fcf1c4bbef2b"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\colors\\extractor.ts": {
+    "mtime": 1778928742.9261162,
+    "ast_hash": "99004a0dc9f3f18dd306cf79063c4768",
+    "semantic_hash": "99004a0dc9f3f18dd306cf79063c4768"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\logo\\fetcher.ts": {
+    "mtime": 1779040016.23678,
+    "ast_hash": "c1ad7025b0a674b2de9d4558fbcd9475",
+    "semantic_hash": "c1ad7025b0a674b2de9d4558fbcd9475"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\qr\\export.ts": {
+    "mtime": 1778928742.9332018,
+    "ast_hash": "a2f294e430e6802c127b45522f6d0322",
+    "semantic_hash": "a2f294e430e6802c127b45522f6d0322"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\qr\\generator.ts": {
+    "mtime": 1779089046.3231313,
+    "ast_hash": "4aa838e1f338164352606ba0166d7259",
+    "semantic_hash": "4aa838e1f338164352606ba0166d7259"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\qr\\validator.ts": {
+    "mtime": 1779089549.5576587,
+    "ast_hash": "e3671578f7a4f8417f3dd684600ef7ff",
+    "semantic_hash": "e3671578f7a4f8417f3dd684600ef7ff"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\templet\\listHandler.ts": {
+    "mtime": 1779088146.2305312,
+    "ast_hash": "84116faafd0b25b195eee6d14c0ecd3c",
+    "semantic_hash": "84116faafd0b25b195eee6d14c0ecd3c"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\templet\\pushHandler.ts": {
+    "mtime": 1779088137.2840135,
+    "ast_hash": "18bfc5d95dd77bc6a75ca4931b0a5f7e",
+    "semantic_hash": "18bfc5d95dd77bc6a75ca4931b0a5f7e"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\backend\\src\\templet\\sourceCodes.ts": {
+    "mtime": 1778964476.7303483,
+    "ast_hash": "ac78fcf7851eea8eae1bc7f51097e97d",
+    "semantic_hash": "ac78fcf7851eea8eae1bc7f51097e97d"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\package.json": {
+    "mtime": 1779041867.008629,
+    "ast_hash": "8570bf2342c9ebfa78305d459e83ee13",
+    "semantic_hash": "8570bf2342c9ebfa78305d459e83ee13"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\tsconfig.json": {
+    "mtime": 1778916140.1469822,
+    "ast_hash": "8827451c4e35790dd3f3538c265e7d15",
+    "semantic_hash": "8827451c4e35790dd3f3538c265e7d15"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\vite.config.ts": {
+    "mtime": 1778928979.136958,
+    "ast_hash": "32da035276dcc658990c0ab6647a4693",
+    "semantic_hash": "32da035276dcc658990c0ab6647a4693"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\App.tsx": {
+    "mtime": 1779118312.3570242,
+    "ast_hash": "ef03f4d0b61661471047be6a3bda1a1a",
+    "semantic_hash": "ef03f4d0b61661471047be6a3bda1a1a"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\main.tsx": {
+    "mtime": 1778916140.049048,
+    "ast_hash": "2b36426d5ad7e08ef79746aa524f4fb7",
+    "semantic_hash": "2b36426d5ad7e08ef79746aa524f4fb7"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\mockData.ts": {
+    "mtime": 1779087362.4539607,
+    "ast_hash": "6a7f25cdaa0afbe5cafa715f3ce9d363",
+    "semantic_hash": "6a7f25cdaa0afbe5cafa715f3ce9d363"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\TemplateContext.tsx": {
+    "mtime": 1779086864.663167,
+    "ast_hash": "df9fd89ca7c8cddf3c75166c4952c595",
+    "semantic_hash": "df9fd89ca7c8cddf3c75166c4952c595"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\templateMetadata.ts": {
+    "mtime": 1779087180.0228043,
+    "ast_hash": "ba0f66636d11aa073fd88f12cc5452d7",
+    "semantic_hash": "ba0f66636d11aa073fd88f12cc5452d7"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\types.ts": {
+    "mtime": 1779034057.4114687,
+    "ast_hash": "4580878540d945ec6ad157faa954eefb",
+    "semantic_hash": "4580878540d945ec6ad157faa954eefb"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\components\\layout\\AppLayout.tsx": {
+    "mtime": 1779118326.2650113,
+    "ast_hash": "5b0b3a5da462f437e011c32e9a6fb499",
+    "semantic_hash": "5b0b3a5da462f437e011c32e9a6fb499"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\components\\layout\\PublicLayout.tsx": {
+    "mtime": 1779119612.129337,
+    "ast_hash": "7471de8a1ea1444f61c05afaf5b00276",
+    "semantic_hash": "7471de8a1ea1444f61c05afaf5b00276"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\components\\ui\\Button.tsx": {
+    "mtime": 1778916140.0698085,
+    "ast_hash": "f78e38269fbff522954690503592c168",
+    "semantic_hash": "f78e38269fbff522954690503592c168"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\components\\ui\\Card.tsx": {
+    "mtime": 1778916140.0854707,
+    "ast_hash": "081e90c1c11ab167b43af6db9d9ff9cf",
+    "semantic_hash": "081e90c1c11ab167b43af6db9d9ff9cf"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\lib\\utils.ts": {
+    "mtime": 1778916140.0649312,
+    "ast_hash": "8595c2f874aa1ff8c7cc28df2999f354",
+    "semantic_hash": "8595c2f874aa1ff8c7cc28df2999f354"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\DashboardView.tsx": {
+    "mtime": 1779120523.893414,
+    "ast_hash": "b11ac769a69f156a3dd1c79c7a41a7e0",
+    "semantic_hash": "b11ac769a69f156a3dd1c79c7a41a7e0"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\DocsView.tsx": {
+    "mtime": 1779114515.4600008,
+    "ast_hash": "4c29ba5611b8a00998df237c97399637",
+    "semantic_hash": "4c29ba5611b8a00998df237c97399637"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\GeneratorView.tsx": {
+    "mtime": 1779118862.966306,
+    "ast_hash": "b0fd07571ae0a09c81304a3c3982daaa",
+    "semantic_hash": "b0fd07571ae0a09c81304a3c3982daaa"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\LandingView.tsx": {
+    "mtime": 1779118425.6736062,
+    "ast_hash": "cc07c773caf582c923d909e856001ea0",
+    "semantic_hash": "cc07c773caf582c923d909e856001ea0"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\LoginView.tsx": {
+    "mtime": 1779119622.9418302,
+    "ast_hash": "579949cc8f2e411c0b7699686d1c381e",
+    "semantic_hash": "579949cc8f2e411c0b7699686d1c381e"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\PricingView.tsx": {
+    "mtime": 1779115203.0632515,
+    "ast_hash": "e7b98adb7fc03c4bf880bdd7059fdf66",
+    "semantic_hash": "e7b98adb7fc03c4bf880bdd7059fdf66"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\SignupView.tsx": {
+    "mtime": 1779116640.078853,
+    "ast_hash": "acae9bbcd1702d07fb4b2a8f88822977",
+    "semantic_hash": "acae9bbcd1702d07fb4b2a8f88822977"
+  },
+  "C:\\Users\\Suvesh\\Desktop\\qrcode leaf\\frontend\\src\\views\\TemplatesView.tsx": {
+    "mtime": 1779086919.8838725,
+    "ast_hash": "e5bbc9c1c82235583e54cdf8ba159c97",
+    "semantic_hash": "e5bbc9c1c82235583e54cdf8ba159c97"
+  }
+}
